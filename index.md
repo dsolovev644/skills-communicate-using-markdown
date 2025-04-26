@@ -10,5 +10,8 @@
 int main(int argc, char *argv[])
 {
     return 0;
-{
+}
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
